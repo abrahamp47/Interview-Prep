@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Palindrome 1-D DP.md",
+                "file": "6 - Main Notes/Trie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Palindrome 1-D DP"
+              "title": "Trie"
             }
           }
         ],
@@ -205,11 +205,11 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "13070ae30d405184",
+  "active": "0c5cc1bbee1200b5",
   "lastOpenFiles": [
+    "6 - Main Notes/Palindrome 1-D DP.md",
     "2 - Source Material/Screenshot 2024-11-05 at 4.48.19 PM.png",
     "6 - Main Notes/Untitled.md",
-    "6 - Main Notes/Palindrome 1-D DP.md",
     "2 - Source Material/Screenshot 2024-11-05 at 3.33.48 PM.png",
     "6 - Main Notes/1 Dimensional DP.md",
     "2 - Source Material/Screenshot 2024-11-05 at 3.41.50 PM.png",
@@ -228,7 +228,6 @@
     "2 - Source Material/Screenshot 2024-11-02 at 8.56.01 PM.png",
     "2 - Source Material/Screenshot 2024-11-02 at 8.36.34 PM.png",
     "2 - Source Material/Screenshot 2024-11-02 at 8.03.24 PM.png",
-    "2 - Source Material/Screenshot 2024-11-02 at 7.48.54 PM.png",
     "6 - Main Notes/Trie.md",
     "6 - Main Notes/Backtracking.md",
     "3 - Tags/Kubernetes.md",
