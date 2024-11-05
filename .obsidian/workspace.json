@@ -11,14 +11,12 @@
             "id": "aa2bf3b755ea7014",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "6 - Main Notes/Union-Find.md",
-                "mode": "source",
-                "source": false
+                "file": "2 - Source Material/Screenshot 2024-11-01 at 5.38.56 PM.png"
               },
-              "icon": "lucide-file",
-              "title": "Union-Find"
+              "icon": "lucide-image",
+              "title": "Screenshot 2024-11-01 at 5.38.56 PM"
             }
           },
           {
@@ -178,8 +176,9 @@
   },
   "active": "aa2bf3b755ea7014",
   "lastOpenFiles": [
-    "6 - Main Notes/Database Synchronisation.md",
+    "2 - Source Material/Screen-Shot-2019-05-06-at-8.54.32-AM-768x708-1.webp",
     "6 - Main Notes/Union-Find.md",
+    "6 - Main Notes/Database Synchronisation.md",
     "6 - Main Notes/Welcome.md",
     "6 - Main Notes/Matrix BFS.md",
     "netlify.toml",
@@ -206,7 +205,6 @@
     "6 - Main Notes/Java DSA Notes.md",
     "3 - Tags/Java.md",
     "3 - Tags/Helm.md",
-    "2 - Source Material/Screen-Shot-2019-05-06-at-8.54.32-AM-768x708-1.webp",
     "6 - Main Notes/create a link.md",
     "3 - Tags/Learning Technique.md",
     "3 - Tags/Data Structures.md",
