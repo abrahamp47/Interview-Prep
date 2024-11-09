@@ -22,7 +22,7 @@ We have to think about the core choice we make at each step.
 3. **Check**: Determine if the current state meets the constraints or criteria of the problem.
 4. **Backtrack**: If the current solution path does not meet the criteria, revert to the previous state and try the next option.
 
-```
+```javascript
 /**
  * Solve [Problem Description] using Backtracking.
  * @param {Type} [parameterName] - [Description of the parameter]
