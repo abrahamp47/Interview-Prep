@@ -22,7 +22,9 @@ def Kadane(nums):
 
 ```
 
+Sliding Window Variation
 
+![[Screenshot 2024-11-09 at 9.33.13 AM.png]]
 # References
 
 
