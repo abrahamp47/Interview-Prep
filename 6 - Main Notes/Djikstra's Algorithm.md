@@ -6,7 +6,8 @@ Tags:
 
 # Djikstra's Algorithm
 
-It is the algorithm to find the shortest path in a weight grap
+It is the algorithm to find the shortest path in a weight graph
+
 # References
 
 
