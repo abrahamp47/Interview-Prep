@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Djikstra's Algorithm.md",
+                "file": "6 - Main Notes/Trees.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Djikstra's Algorithm"
+              "title": "Trees"
             }
           }
         ]
@@ -166,10 +166,11 @@
   },
   "active": "8de548c51312ed2d",
   "lastOpenFiles": [
-    "6 - Main Notes/Matrix BFS.md",
+    "6 - Main Notes/Trie.md",
+    "6 - Main Notes/Union-Find.md",
     "6 - Main Notes/Matrix DFS.md",
     "6 - Main Notes/Djikstra's Algorithm.md",
-    "6 - Main Notes/Trie.md",
+    "6 - Main Notes/Matrix BFS.md",
     "2 - Source Material/Videos/Feynman Technique.md",
     "6 - Main Notes/Palindrome 1-D DP.md",
     "6 - Main Notes/Adjacency List Graph.md",
@@ -184,7 +185,6 @@
     "2 - Source Material/Images/Screenshot 2024-11-05 at 4.48.19 PM.png",
     "2 - Source Material/Images/Screenshot 2024-11-05 at 3.41.50 PM.png",
     "2 - Source Material/Images/Screenshot 2024-11-05 at 3.29.08 PM.png",
-    "6 - Main Notes/Union-Find.md",
     "2 - Source Material/Images/Screenshot 2024-11-01 at 5.38.56 PM.png",
     "6 - Main Notes/Database Synchronisation.md",
     "6 - Main Notes/Welcome.md",

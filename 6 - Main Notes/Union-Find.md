@@ -6,7 +6,7 @@ Tags:
 
 # Union-Find
 
-```
+```python
 class DSU:
 
     def __init__(self, n):
