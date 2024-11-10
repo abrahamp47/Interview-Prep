@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Kruskals Algorithm.md",
+                "file": "6 - Main Notes/Topological Sort.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kruskals Algorithm"
+              "title": "Topological Sort"
             }
           }
         ]
@@ -166,8 +166,9 @@
   },
   "active": "8de548c51312ed2d",
   "lastOpenFiles": [
-    "6 - Main Notes/Prims Algorithm.md",
     "6 - Main Notes/Kruskals Algorithm.md",
+    "6 - Main Notes/Topological Sort.md",
+    "6 - Main Notes/Prims Algorithm.md",
     "6 - Main Notes/Djikstra's Algorithm.md",
     "2 - Source Material/Images/Screenshot 2024-11-09 at 5.33.43 PM.png",
     "6 - Main Notes/1 Dimensional DP.md",
@@ -203,7 +204,6 @@
     "2 - Source Material/Images/Screenshot 2024-11-02 at 9.01.59 PM.png",
     "3 - Tags/Kubernetes.md",
     "3 - Tags/System Design.md",
-    "6 - Main Notes/Factory Design Pattern.md",
     "2 - Source Material/Articles",
     "2 - Source Material/Books",
     "Untitled.canvas",
