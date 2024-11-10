@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Topological Sort.md",
+                "file": "6 - Main Notes/Djikstra's Algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Topological Sort"
+              "title": "Djikstra's Algorithm"
             }
           }
         ]
@@ -166,8 +166,8 @@
   },
   "active": "8de548c51312ed2d",
   "lastOpenFiles": [
-    "6 - Main Notes/Kruskals Algorithm.md",
     "6 - Main Notes/Topological Sort.md",
+    "6 - Main Notes/Kruskals Algorithm.md",
     "6 - Main Notes/Prims Algorithm.md",
     "6 - Main Notes/Djikstra's Algorithm.md",
     "2 - Source Material/Images/Screenshot 2024-11-09 at 5.33.43 PM.png",
