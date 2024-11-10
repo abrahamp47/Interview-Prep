@@ -75,11 +75,6 @@ def topological_sort_bfs(vertices, edges):
     else:
         return "Graph has a cycle, topological sort not possible."
 
-# Example usage:
-vertices = 6
-edges = [(5, 2), (5, 0), (4, 0), (4, 1), (2, 3), (3, 1)]
-print(topological_sort_bfs(vertices, edges))
-
 ```
 # References
 
