@@ -6,7 +6,7 @@ Tags:
 
 # Topological Sort
 
-
+Only works on DAGs
 
 # References
 
