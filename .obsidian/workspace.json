@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Trie.md",
+                "file": "6 - Main Notes/Union-Find.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trie"
+              "title": "Union-Find"
             }
           }
         ]
@@ -166,11 +166,11 @@
   },
   "active": "8de548c51312ed2d",
   "lastOpenFiles": [
+    "6 - Main Notes/Trie.md",
     "6 - Main Notes/Matrix DFS.md",
     "6 - Main Notes/Matrix BFS.md",
     "6 - Main Notes/Backtracking.md",
     "6 - Main Notes/CAP Theorem.md",
-    "6 - Main Notes/Trie.md",
     "6 - Main Notes/Trees.md",
     "6 - Main Notes/Djikstra's Algorithm.md",
     "6 - Main Notes/Topological Sort.md",
