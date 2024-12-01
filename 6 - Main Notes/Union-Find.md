@@ -31,7 +31,7 @@ d
         p1, p2 = self.find(n1), self.find(n2)
         if p1 == p2:
             return False
-        
+
         if self.rank[p1] > self.rank[p2]:
            self.par[p2] = p1
            self.rank[p1] += self.rank[p2]
