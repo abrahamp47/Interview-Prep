@@ -20,7 +20,7 @@ class DSU:
     def find(self, n):
 
         if self.par[n] != n:
-            self.par[n] = self.find(self.par[n])
+            self.par[n] = self.find(self.par[n]) //path compress
         return self.par[n]
     
     def union(self, n1, n2):
