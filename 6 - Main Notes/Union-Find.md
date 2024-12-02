@@ -17,21 +17,17 @@ class DSU:
             self.par[i] = i
             self.rank[i] = 1
 
-   a 
- b. c
-d
-
     def find(self, n):
 
         if self.par[n] != n:
-            par[n] = find(par[n]) //path compression
+            self.par[n] = self.find(self.par[n])
         return self.par[n]
     
     def union(self, n1, n2):
         p1, p2 = self.find(n1), self.find(n2)
         if p1 == p2:
             return False
-
+        
         if self.rank[p1] > self.rank[p2]:
            self.par[p2] = p1
            self.rank[p1] += self.rank[p2]
