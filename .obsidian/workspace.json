@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Helm"
             }
+          },
+          {
+            "id": "1632e8e26258706e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +177,7 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "8de548c51312ed2d",
+  "active": "1632e8e26258706e",
   "lastOpenFiles": [
     "3 - Tags/Kubernetes.md",
     "6 - Main Notes/Kubernetes Core Concepts.md",
