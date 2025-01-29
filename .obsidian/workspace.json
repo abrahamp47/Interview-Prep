@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Matrix BFS.md",
+                "file": "6 - Main Notes/Kruskals Algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matrix BFS"
+              "title": "Kruskals Algorithm"
             }
           }
         ],
@@ -181,15 +181,15 @@
   },
   "active": "1632e8e26258706e",
   "lastOpenFiles": [
+    "6 - Main Notes/Kubernetes Core Concepts.md",
+    "6 - Main Notes/Matrix BFS.md",
+    "6 - Main Notes/Matrix DFS.md",
     "6 - Main Notes/Kruskals Algorithm.md",
     "6 - Main Notes/Prims Algorithm.md",
     "6 - Main Notes/Djikstra's Algorithm.md",
     "3 - Tags/Kubernetes.md",
-    "6 - Main Notes/Kubernetes Core Concepts.md",
     "6 - Main Notes/Trie.md",
     "6 - Main Notes/Union-Find.md",
-    "6 - Main Notes/Matrix DFS.md",
-    "6 - Main Notes/Matrix BFS.md",
     "6 - Main Notes/Backtracking.md",
     "6 - Main Notes/CAP Theorem.md",
     "6 - Main Notes/Trees.md",
