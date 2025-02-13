@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Kruskals Algorithm"
             }
+          },
+          {
+            "id": "78caf6b93284ac44",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -55,7 +67,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -179,7 +192,7 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "1632e8e26258706e",
+  "active": "78caf6b93284ac44",
   "lastOpenFiles": [
     "6 - Main Notes/Kubernetes Core Concepts.md",
     "6 - Main Notes/Matrix BFS.md",
