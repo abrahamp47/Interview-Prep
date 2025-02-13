@@ -39,12 +39,14 @@
             "id": "78caf6b93284ac44",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "6 - Main Notes/Kruskals Algorithm.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "Kruskals Algorithm"
             }
           }
         ],
@@ -194,6 +196,7 @@
   },
   "active": "78caf6b93284ac44",
   "lastOpenFiles": [
+    "6 - Main Notes/Kadane's Algorithm.md",
     "6 - Main Notes/Kubernetes Core Concepts.md",
     "6 - Main Notes/Matrix BFS.md",
     "6 - Main Notes/Matrix DFS.md",
@@ -222,7 +225,6 @@
     "2 - Source Material/Images",
     "2 - Source Material/Untitled.md",
     "2 - Source Material/Images/Screenshot 2024-11-09 at 3.30.33 PM.png",
-    "6 - Main Notes/Kadane's Algorithm.md",
     "2 - Source Material/Images/Screenshot 2024-11-05 at 3.33.48 PM.png",
     "2 - Source Material/Images/Screenshot 2024-11-05 at 4.48.19 PM.png",
     "2 - Source Material/Images/Screenshot 2024-11-05 at 3.41.50 PM.png",
