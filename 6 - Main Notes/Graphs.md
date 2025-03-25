@@ -24,7 +24,14 @@ Adjacency Matrix is another way to represent a graph, It is a square matrix of N
 
 ![[Screenshot 2025-03-25 at 10.11.58 PM.png]]
 
-It is very space heavy so  
+It is very space heavy so the use of a Adjacency matrix is discouraged.
+
+### Adjacency Matrix DFS
+
+```python
+
+
+```
 # References
 
 
