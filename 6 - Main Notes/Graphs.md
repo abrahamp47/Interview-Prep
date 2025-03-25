@@ -14,6 +14,11 @@ Where it can be mainly represented in three formats
 
 ## Matrix
 
+Matrix method is where the matrix is shown as grid with 0s to represent free space and 1s to represent blocked space. We can traverse throughs 0s.
+
+![[Screenshot 2025-03-25 at 10.09.53 PM.png]]
+
+## Adjacency Matrix
 
 
 # References
