@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Graphs"
             }
+          },
+          {
+            "id": "6fc53ce4103f4d16",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +178,7 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "fe6c6aa0d30150e6",
+  "active": "6fc53ce4103f4d16",
   "lastOpenFiles": [
     "6 - Main Notes/Matrix DFS.md",
     "2 - Source Material/Images/Screenshot 2024-11-02 at 7.48.54 PM.png",
