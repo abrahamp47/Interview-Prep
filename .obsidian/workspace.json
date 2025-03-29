@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Graphs.md",
+                "file": "6 - Main Notes/Adjacency List Graph.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Graphs"
+              "title": "Adjacency List Graph"
             }
           },
           {
@@ -33,8 +33,7 @@
               "title": "Release Notes 1.8.9"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,11 +177,11 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "6fc53ce4103f4d16",
+  "active": "fe6c6aa0d30150e6",
   "lastOpenFiles": [
+    "6 - Main Notes/Graphs.md",
     "6 - Main Notes/Matrix DFS.md",
     "2 - Source Material/Images/Screenshot 2024-11-02 at 7.48.54 PM.png",
-    "6 - Main Notes/Graphs.md",
     "6 - Main Notes/Matrix BFS.md",
     "Screenshot 2025-03-25 at 10.11.58 PM.png",
     "2 - Source Material/Images/Screenshot 2025-03-25 at 10.09.53 PM.png",
