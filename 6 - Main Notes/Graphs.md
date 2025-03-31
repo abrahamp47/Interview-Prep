@@ -97,6 +97,8 @@ def bfs(grid):
 
 ## Adjacency List
 
+![[Pasted image 20250331130501.png]]
+
 
 
 # References
