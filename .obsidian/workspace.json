@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Adjacency List Graph.md",
+                "file": "6 - Main Notes/Graphs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adjacency List Graph"
+              "title": "Graphs"
             }
           },
           {
@@ -194,9 +194,9 @@
   },
   "active": "ca8be8ed331133ff",
   "lastOpenFiles": [
+    "6 - Main Notes/Adjacency List Graph.md",
     "6 - Main Notes/Graphs.md",
     "6 - Main Notes/Getting Ahead with Coding.md",
-    "6 - Main Notes/Adjacency List Graph.md",
     "6 - Main Notes/Matrix DFS.md",
     "2 - Source Material/Images/Screenshot 2024-11-02 at 7.48.54 PM.png",
     "6 - Main Notes/Matrix BFS.md",
