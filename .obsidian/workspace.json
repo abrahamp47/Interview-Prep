@@ -47,8 +47,7 @@
               "title": "Release Notes 1.8.9"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,7 +191,7 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "ca8be8ed331133ff",
+  "active": "fe6c6aa0d30150e6",
   "lastOpenFiles": [
     "Pasted image 20250331130501.png",
     "2 - Source Material/Videos/Feynman Technique.md",
