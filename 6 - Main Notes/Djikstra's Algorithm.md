@@ -51,7 +51,20 @@ def dijkstra(matrix):
 
 ```python
 
-def Djikstra(adjList, )
+def Djikstra(adjList, src):
+	heap = [(0, start)]
+	dist = {}
+
+	while heap:
+		cost, node = heapq.heappop(heap)
+		if node in dist:
+			continue
+		dist[node] = cost
+		for nei, weight in adjList[node]:
+		if nei not in dist:
+		heapq.heappush(heap, (cost + weight, nei))
+	
+	return dist
 
 
 ```
