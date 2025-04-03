@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Adjacency List Graph.md",
+                "file": "6 - Main Notes/Djikstra's Algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adjacency List Graph"
+              "title": "Djikstra's Algorithm"
             }
           },
           {
@@ -193,11 +193,11 @@
   },
   "active": "fe6c6aa0d30150e6",
   "lastOpenFiles": [
+    "6 - Main Notes/Adjacency List Graph.md",
     "6 - Main Notes/Graphs.md",
     "Pasted image 20250331130501.png",
     "2 - Source Material/Videos/Feynman Technique.md",
     "2 - Source Material/Images/data-structures-in-java.png",
-    "6 - Main Notes/Adjacency List Graph.md",
     "6 - Main Notes/Getting Ahead with Coding.md",
     "6 - Main Notes/Matrix DFS.md",
     "2 - Source Material/Images/Screenshot 2024-11-02 at 7.48.54 PM.png",
