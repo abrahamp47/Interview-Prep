@@ -66,9 +66,24 @@ def Djikstra(adjList, src):
 	
 	return dist
 
-def Djikstra(grid, src):
-	
+def dijkstra_grid(grid):
+    m, n = len(grid), len(grid[0])
+    heap = [(grid[0][0], 0, 0)]
+    visited = set()
 
+    while heap:
+        cost, r, c = heapq.heappop(heap)
+        if (r, c) in visited:
+            continue
+        visited.add((r, c))
+
+        if r == m - 1 and c == n - 1:
+            return cost
+
+        for dr, dc in [(-1,0),(1,0),(0,-1),(0,1)]:
+            nr, nc = r + dr, c + dc
+            if 0 <= nr < m and 0 <= nc < n and (nr, nc) not in visited:
+                heapq.heappush(heap, (cost + grid[nr][nc], nr, nc))
 ```
 # References
 
