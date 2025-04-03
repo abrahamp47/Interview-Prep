@@ -48,6 +48,13 @@ def dijkstra(matrix):
     return cost[rows - 1][cols - 1]
 ```
 
+
+```python
+
+def Djikstra(adjList, )
+
+
+```
 # References
 
 
