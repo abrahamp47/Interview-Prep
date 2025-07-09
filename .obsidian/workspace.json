@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "a7680f70f1081dad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
             "id": "ca8be8ed331133ff",
             "type": "leaf",
             "state": {
@@ -47,7 +61,8 @@
               "title": "Release Notes 1.8.9"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,11 +206,12 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "fe6c6aa0d30150e6",
+  "active": "a7680f70f1081dad",
   "lastOpenFiles": [
+    "6 - Main Notes/Graphs.md",
+    "6 - Main Notes/Untitled.md",
     "6 - Main Notes/Matrix DFS.md",
     "6 - Main Notes/Matrix BFS.md",
-    "6 - Main Notes/Graphs.md",
     "6 - Main Notes/Adjacency List Graph.md",
     "6 - Main Notes/Djikstra's Algorithm.md",
     "Pasted image 20250331130501.png",
